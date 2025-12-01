@@ -1,4 +1,4 @@
-# BuoyVisionNavigation
+# Autonomous Buoy Navigation System
 
 This project implements a **Buoy Navigation** system for a 3-motor Unmanned Surface Vehicle (USV), leveraging **Computer Vision** to detect and follow red buoys autonomously.
 
