@@ -1,6 +1,6 @@
-# USVisionBuoyNavigation
+# BuoyVisionNavigation
 
-This project implements a navigation system for a 3-motor Unmanned Surface Vehicle (USV), capable of detecting and following red buoys using computer vision and remote control.
+This project implements a **Buoy Navigation** system for a 3-motor Unmanned Surface Vehicle (USV), leveraging **Computer Vision** to detect and follow red buoys autonomously.
 
 ## 📋 Overview
 
